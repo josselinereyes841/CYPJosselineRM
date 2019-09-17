@@ -1,1 +1,8 @@
-
+A=int(input("escibe un valor entero para A: "))
+B=int(input("escibe un valor entero para B: "))
+C=int(input("escibe un valor entero para C: "))
+D=int(input("escibe un valor entero para D: "))
+print(D)
+print(C)
+print(B)
+print(A)
